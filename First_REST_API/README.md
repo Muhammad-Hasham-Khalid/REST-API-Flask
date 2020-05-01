@@ -1,0 +1,13 @@
+## First Python Flask REST API Application
+- Design REST API for and employee info.
+- Steps to implement REST API:
+  - Base URL/Root Endpoint (where your REST API is running)
+    - http://localhost:5000
+  - Endpoints:
+    - /info
+  - Resource: Employee Information
+  - HTTP verbs/Methods:
+    - GET
+  - Now our REST APIs are: Base URL + Endpoints
+    - http://localhost:5000/info
+    - and available method is GET.
